@@ -1,0 +1,494 @@
+[
+    {
+        "nombre": "",
+        "ubicacion": "",
+        "habitaciones": 0,
+        "reservas": []
+    },
+    {
+        "nombre": "",
+        "ubicacion": "",
+        "habitaciones": 0,
+        "reservas": []
+    },
+    {
+        "nombre": "",
+        "ubicacion": "",
+        "habitaciones": 0,
+        "reservas": []
+    },
+    {
+        "nombre": "",
+        "ubicacion": "",
+        "habitaciones": 0,
+        "reservas": []
+    },
+    {
+        "nombre": "",
+        "ubicacion": "",
+        "habitaciones": 0,
+        "reservas": []
+    },
+    {
+        "nombre": "",
+        "ubicacion": "",
+        "habitaciones": 0,
+        "reservas": []
+    },
+    {
+        "nombre": "",
+        "ubicacion": "",
+        "habitaciones": 0,
+        "reservas": []
+    },
+    {
+        "nombre": "",
+        "ubicacion": "",
+        "habitaciones": 0,
+        "reservas": []
+    },
+    {
+        "nombre": "",
+        "ubicacion": "",
+        "habitaciones": 0,
+        "reservas": []
+    },
+    {
+        "nombre": "",
+        "ubicacion": "",
+        "habitaciones": 0,
+        "reservas": []
+    },
+    {
+        "nombre": "",
+        "ubicacion": "",
+        "habitaciones": 0,
+        "reservas": []
+    },
+    {
+        "nombre": "",
+        "ubicacion": "",
+        "habitaciones": 0,
+        "reservas": []
+    },
+    {
+        "nombre": "",
+        "ubicacion": "",
+        "habitaciones": 0,
+        "reservas": []
+    },
+    {
+        "nombre": "",
+        "ubicacion": "",
+        "habitaciones": 0,
+        "reservas": []
+    },
+    {
+        "nombre": "",
+        "ubicacion": "",
+        "habitaciones": 0,
+        "reservas": []
+    },
+    {
+        "nombre": "",
+        "ubicacion": "",
+        "habitaciones": 0,
+        "reservas": []
+    },
+    {
+        "nombre": "Hotel Prueba",
+        "ubicacion": "Ciudad Prueba",
+        "habitaciones": 50,
+        "reservas": []
+    },
+    {
+        "nombre": "Hotel Prueba",
+        "ubicacion": "Ciudad Prueba",
+        "habitaciones": 50,
+        "reservas": []
+    },
+    {
+        "nombre": "Hotel Prueba",
+        "ubicacion": "Ciudad Prueba",
+        "habitaciones": 50,
+        "reservas": []
+    },
+    {
+        "nombre": "Hotel Prueba",
+        "ubicacion": "Ciudad Prueba",
+        "habitaciones": 50,
+        "reservas": []
+    },
+    {
+        "nombre": "Hotel Prueba",
+        "ubicacion": "Ciudad Prueba",
+        "habitaciones": 50,
+        "reservas": []
+    },
+    {
+        "nombre": "Hotel Prueba",
+        "ubicacion": "Ciudad Prueba",
+        "habitaciones": 50,
+        "reservas": []
+    },
+    {
+        "nombre": "Hotel Prueba",
+        "ubicacion": "CDMX",
+        "habitaciones": 10,
+        "reservas": []
+    },
+    {
+        "nombre": "Hotel Prueba",
+        "ubicacion": "CDMX",
+        "habitaciones": 10,
+        "reservas": []
+    },
+    {
+        "nombre": "Hotel Prueba",
+        "ubicacion": "CDMX",
+        "habitaciones": 10,
+        "reservas": []
+    },
+    {
+        "nombre": "Hotel Prueba",
+        "ubicacion": "CDMX",
+        "habitaciones": 10,
+        "reservas": []
+    },
+    {
+        "nombre": "Hotel Prueba",
+        "ubicacion": "CDMX",
+        "habitaciones": 10,
+        "reservas": []
+    },
+    {
+        "nombre": "Hotel Prueba",
+        "ubicacion": "CDMX",
+        "habitaciones": 10,
+        "reservas": []
+    },
+    {
+        "nombre": "Hotel Prueba",
+        "ubicacion": "CDMX",
+        "habitaciones": 10,
+        "reservas": []
+    },
+    {
+        "nombre": "Hotel Prueba",
+        "ubicacion": "CDMX",
+        "habitaciones": 10,
+        "reservas": []
+    },
+    {
+        "nombre": "Hotel Prueba",
+        "ubicacion": "CDMX",
+        "habitaciones": 10,
+        "reservas": []
+    },
+    {
+        "nombre": "Hotel Prueba",
+        "ubicacion": "CDMX",
+        "habitaciones": 10,
+        "reservas": []
+    },
+    {
+        "nombre": "Hotel Prueba",
+        "ubicacion": "CDMX",
+        "habitaciones": 10,
+        "reservas": []
+    },
+    {
+        "nombre": "Hotel Prueba",
+        "ubicacion": "CDMX",
+        "habitaciones": 10,
+        "reservas": []
+    },
+    {
+        "nombre": "Hotel Prueba",
+        "ubicacion": "CDMX",
+        "habitaciones": 10,
+        "reservas": []
+    },
+    {
+        "nombre": "Hotel Prueba",
+        "ubicacion": "CDMX",
+        "habitaciones": 10,
+        "reservas": []
+    },
+    {
+        "nombre": "Hotel Prueba",
+        "ubicacion": "CDMX",
+        "habitaciones": 10,
+        "reservas": []
+    },
+    {
+        "nombre": "Hotel Prueba",
+        "ubicacion": "CDMX",
+        "habitaciones": 10,
+        "reservas": []
+    },
+    {
+        "nombre": "Hotel Prueba",
+        "ubicacion": "CDMX",
+        "habitaciones": 10,
+        "reservas": []
+    },
+    {
+        "nombre": "Hotel Prueba",
+        "ubicacion": "CDMX",
+        "habitaciones": 10,
+        "reservas": []
+    },
+    {
+        "nombre": "Hotel Prueba",
+        "ubicacion": "CDMX",
+        "habitaciones": 10,
+        "reservas": []
+    },
+    {
+        "nombre": "Hotel Prueba",
+        "ubicacion": "CDMX",
+        "habitaciones": 10,
+        "reservas": []
+    },
+    {
+        "nombre": "Hotel Prueba",
+        "ubicacion": "CDMX",
+        "habitaciones": 10,
+        "reservas": []
+    },
+    {
+        "nombre": "Hotel Prueba",
+        "ubicacion": "CDMX",
+        "habitaciones": 10,
+        "reservas": []
+    },
+    {
+        "nombre": "Hotel Prueba",
+        "ubicacion": "CDMX",
+        "habitaciones": 10,
+        "reservas": []
+    },
+    {
+        "nombre": "Hotel Prueba",
+        "ubicacion": "CDMX",
+        "habitaciones": 10,
+        "reservas": []
+    },
+    {
+        "nombre": "Hotel Prueba",
+        "ubicacion": "CDMX",
+        "habitaciones": 10,
+        "reservas": []
+    },
+    {
+        "nombre": "Hotel Prueba",
+        "ubicacion": "CDMX",
+        "habitaciones": 10,
+        "reservas": []
+    },
+    {
+        "nombre": "Hotel Prueba",
+        "ubicacion": "CDMX",
+        "habitaciones": 10,
+        "reservas": []
+    },
+    {
+        "nombre": "Hotel Prueba",
+        "ubicacion": "CDMX",
+        "habitaciones": 10,
+        "reservas": []
+    },
+    {
+        "nombre": "Hotel Prueba",
+        "ubicacion": "CDMX",
+        "habitaciones": 10,
+        "reservas": []
+    },
+    {
+        "nombre": "Hotel Prueba",
+        "ubicacion": "CDMX",
+        "habitaciones": 10,
+        "reservas": []
+    },
+    {
+        "nombre": "Hotel Prueba",
+        "ubicacion": "CDMX",
+        "habitaciones": 10,
+        "reservas": []
+    },
+    {
+        "nombre": "Hotel Prueba",
+        "ubicacion": "CDMX",
+        "habitaciones": 10,
+        "reservas": []
+    },
+    {
+        "nombre": "Hotel Prueba",
+        "ubicacion": "CDMX",
+        "habitaciones": 10,
+        "reservas": []
+    },
+    {
+        "nombre": "Hotel Prueba",
+        "ubicacion": "CDMX",
+        "habitaciones": 10,
+        "reservas": []
+    },
+    {
+        "nombre": "Hotel Prueba",
+        "ubicacion": "CDMX",
+        "habitaciones": 10,
+        "reservas": []
+    },
+    {
+        "nombre": "Hotel Prueba",
+        "ubicacion": "CDMX",
+        "habitaciones": 10,
+        "reservas": []
+    },
+    {
+        "nombre": "Hotel Prueba",
+        "ubicacion": "CDMX",
+        "habitaciones": 10,
+        "reservas": []
+    },
+    {
+        "nombre": "Hotel Prueba",
+        "ubicacion": "CDMX",
+        "habitaciones": 10,
+        "reservas": []
+    },
+    {
+        "nombre": "Hotel Prueba",
+        "ubicacion": "CDMX",
+        "habitaciones": 10,
+        "reservas": []
+    },
+    {
+        "nombre": "Hotel Prueba",
+        "ubicacion": "CDMX",
+        "habitaciones": 10,
+        "reservas": []
+    },
+    {
+        "nombre": "Hotel Prueba",
+        "ubicacion": "CDMX",
+        "habitaciones": 10,
+        "reservas": []
+    },
+    {
+        "nombre": "Hotel Prueba",
+        "ubicacion": "CDMX",
+        "habitaciones": 10,
+        "reservas": []
+    },
+    {
+        "nombre": "Hotel Prueba",
+        "ubicacion": "CDMX",
+        "habitaciones": 10,
+        "reservas": []
+    },
+    {
+        "nombre": "Hotel Prueba",
+        "ubicacion": "CDMX",
+        "habitaciones": 10,
+        "reservas": []
+    },
+    {
+        "nombre": "Hotel Prueba",
+        "ubicacion": "CDMX",
+        "habitaciones": 10,
+        "reservas": []
+    },
+    {
+        "nombre": "Hotel Prueba",
+        "ubicacion": "CDMX",
+        "habitaciones": 10,
+        "reservas": []
+    },
+    {
+        "nombre": "Hotel Prueba",
+        "ubicacion": "CDMX",
+        "habitaciones": 10,
+        "reservas": []
+    },
+    {
+        "nombre": "Hotel Prueba",
+        "ubicacion": "CDMX",
+        "habitaciones": 10,
+        "reservas": []
+    },
+    {
+        "nombre": "Hotel Prueba",
+        "ubicacion": "CDMX",
+        "habitaciones": 10,
+        "reservas": []
+    },
+    {
+        "nombre": "Hotel Prueba",
+        "ubicacion": "CDMX",
+        "habitaciones": 10,
+        "reservas": []
+    },
+    {
+        "nombre": "Hotel Prueba",
+        "ubicacion": "CDMX",
+        "habitaciones": 10,
+        "reservas": []
+    },
+    {
+        "nombre": "Hotel Prueba",
+        "ubicacion": "CDMX",
+        "habitaciones": 10,
+        "reservas": []
+    },
+    {
+        "nombre": "Hotel Prueba",
+        "ubicacion": "CDMX",
+        "habitaciones": 10,
+        "reservas": []
+    },
+    {
+        "nombre": "Hotel Prueba",
+        "ubicacion": "CDMX",
+        "habitaciones": 10,
+        "reservas": []
+    },
+    {
+        "nombre": "Hotel Prueba",
+        "ubicacion": "CDMX",
+        "habitaciones": 10,
+        "reservas": []
+    },
+    {
+        "nombre": "Hotel Prueba",
+        "ubicacion": "CDMX",
+        "habitaciones": 10,
+        "reservas": []
+    },
+    {
+        "nombre": "Hotel Prueba",
+        "ubicacion": "CDMX",
+        "habitaciones": 10,
+        "reservas": []
+    },
+    {
+        "nombre": "Hotel Prueba",
+        "ubicacion": "CDMX",
+        "habitaciones": 10,
+        "reservas": []
+    },
+    {
+        "nombre": "Hotel Prueba",
+        "ubicacion": "CDMX",
+        "habitaciones": 10,
+        "reservas": []
+    },
+    {
+        "nombre": "Hotel Prueba",
+        "ubicacion": "CDMX",
+        "habitaciones": 10,
+        "reservas": []
+    }
+]
